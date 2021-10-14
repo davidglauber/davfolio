@@ -1,0 +1,8 @@
+.portrait {
+  position: relative;
+
+  & canvas {
+    position: absolute;
+    inset: 0;
+  }
+}
