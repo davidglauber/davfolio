@@ -21,18 +21,13 @@ export const navLinks = [
 
 export const socialLinks = [
   {
-    label: 'Twitter',
-    url: 'https://twitter.codyb.co',
-    icon: 'twitter',
-  },
-  {
-    label: 'Dribbble',
+    label: 'Outlook',
     url: 'https://dribbble.codyb.co',
-    icon: 'dribbble',
+    icon: 'outlook',
   },
   {
     label: 'Github',
-    url: 'https://github.codyb.co',
+    url: 'https://github.com/davidglauber',
     icon: 'github',
   },
 ];

@@ -21,7 +21,7 @@ const NavbarIcons = () => (
         key={label}
         className="navbar__nav-icon-link"
         aria-label={label}
-        href={url}
+        href={icon == 'outlook' ? 'mailto:davidglauber2010@hotmail.com' : url}
         onMouseUp={blurOnMouseUp}
         target="_blank"
         rel="noopener noreferrer"

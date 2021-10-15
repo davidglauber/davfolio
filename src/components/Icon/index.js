@@ -3,6 +3,7 @@ import { ReactComponent as ArrowRight } from 'assets/icons/arrow-right.svg';
 import { ReactComponent as ChevronRight } from 'assets/icons/chevron-right.svg';
 import { ReactComponent as Close } from 'assets/icons/close.svg';
 import { ReactComponent as Dribbble } from 'assets/icons/dribbble.svg';
+import { ReactComponent as Outlook } from 'assets/icons/outlook.svg';
 import { ReactComponent as Email } from 'assets/icons/email.svg';
 import { ReactComponent as Error } from 'assets/icons/error.svg';
 import { ReactComponent as Figma } from 'assets/icons/figma.svg';
@@ -20,6 +21,7 @@ export const icons = {
   chevronRight: ChevronRight,
   close: Close,
   dribbble: Dribbble,
+  outlook: Outlook,
   email: Email,
   error: Error,
   figma: Figma,
